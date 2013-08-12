@@ -3,7 +3,7 @@ gkrellm-btce
 
 Small plugin for gkrellm showing current buy options for LiteCoin and FeatherCoin.
 
-![](imgs/gkbtce.png?raw=true)
+![](img/gkbtce.png?raw=true)
 
 Installation
 ============
